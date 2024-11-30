@@ -1,0 +1,13 @@
+[project]
+name = "nlp-tp1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "gensim>=4.3.3",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.9.3",
+    "scikit-learn>=1.5.2",
+    "umap-learn>=0.5.7",
+]
